@@ -1,1 +1,1 @@
-# Lazy
+https://github.com/arismelachroinos/lscript
